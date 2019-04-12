@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  cw1_SORTOWANIE.cpp
+c:\users\jan\desktop\informatyka\aisd\cw1_sortowanie\cw1_sortowanie\cw1_sortowanie.cpp(172): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jan\desktop\informatyka\aisd\cw1_sortowanie\cw1_sortowanie\cw1_sortowanie.cpp(177): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\jan\desktop\informatyka\aisd\cw1_sortowanie\cw1_sortowanie\cw1_sortowanie.cpp(192): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jan\desktop\informatyka\aisd\cw1_sortowanie\cw1_sortowanie\cw1_sortowanie.cpp(197): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\jan\desktop\informatyka\aisd\cw1_sortowanie\cw1_sortowanie\cw1_sortowanie.cpp(212): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jan\desktop\informatyka\aisd\cw1_sortowanie\cw1_sortowanie\cw1_sortowanie.cpp(217): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\jan\desktop\informatyka\aisd\cw1_sortowanie\cw1_sortowanie\cw1_sortowanie.cpp(232): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jan\desktop\informatyka\aisd\cw1_sortowanie\cw1_sortowanie\cw1_sortowanie.cpp(237): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+  cw1_SORTOWANIE.vcxproj -> C:\Users\Jan\Desktop\Informatyka\AiSD\cw1_SORTOWANIE\Debug\cw1_SORTOWANIE.exe
